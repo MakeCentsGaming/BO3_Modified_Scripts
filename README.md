@@ -16,3 +16,8 @@ usermaps/mapname/scripts/share
 usermaps/mapname/scripts/mp
 ```
 so on...
+
+Then add to zone:
+```
+scriptparsetree,scripts/folder/scriptname.gsc
+```
