@@ -19,5 +19,5 @@ so on...
 
 Then add to zone:
 ```
-scriptparsetree,scripts/folder/scriptname.gsc
+scriptparsetree,scripts/folder/scriptname.ext
 ```
