@@ -5,7 +5,7 @@ Intended place to put modified BO3 scripts that bring easier feature accessablit
 Anyone can use these scripts
 Anyone can contribute as long as no original functionality is lost and something is gained
 
-  Please mark at the top what was gained by your modification if additonal features were gained
+  - Please mark at the top what was gained by your modification if additonal features were gained
 
 To use these scripts, do not overwrite your share/raw scripts
 
